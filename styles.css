@@ -1,0 +1,163 @@
+.projects, .jobs, .education {
+    margin-bottom: 30px; 
+}
+
+.bio-title {
+    font-size: 45px;
+    line-height: 2;
+    margin-bottom: 20px;
+}
+
+.bio-occupation,
+.bio-about {
+    font-size: 14px;
+    line-height: 1.714;
+}
+
+.bio-title,
+.bio-occupation {
+    color: #2a2a2a;
+}
+
+.bio-about {
+    color: #595959;
+}
+
+.projects-tittle {
+    font-size: 22px;
+    line-height: 1.091;
+    color: #2a2a2a;
+}
+
+.projects-links {
+    font-size: 14px;
+    line-height: 1.714;
+    color: #220fdc;
+}
+
+.jobs-title {
+    font-size: 22px;
+    line-height: 1.091;
+    margin-bottom: 26px;
+}
+
+.jobs-occupation {
+    font-size: 16px;
+    line-height: 1.5;
+    margin-bottom: 16px;
+}
+
+.jobs-time {
+    color: #828282;
+    font-size: 12px;
+    line-height: 2;
+}
+
+.experience-item {
+    color: #595959;
+    font-size: 14px;
+    line-height: 1.714;
+    margin-bottom: 10px;
+}
+
+.accent {
+    color: #ff6b08;
+}
+
+.education-tittle {
+    font-size: 22px;
+    line-height: 1.091;
+    margin-bottom: 26px;
+}
+
+.education-degree {
+    font-size: 16px;
+    line-height: 1.5;
+    margin-bottom: 16px;
+}
+
+.education-time {
+    color: #828282;
+    font-size: 12px;
+    line-height: 2;
+    margin-bottom: 18px;
+}
+
+.left-side {
+    width: 20%;
+    background-color: #1e2939;
+    color: #fff;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+}
+
+.right-side {
+    width: 80%;
+    padding-left: 40px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.contacts, .skills {
+    padding-left: 0;
+}
+
+.contacts-title {
+    font-size: 22px;
+    line-height: 1.091;
+    margin-bottom: 10px;
+}
+
+.contacts-item {
+    font-size: 14px;
+    line-height: 1.714;
+}
+
+.contacts-link {
+    color: #fff;
+    opacity: 0.6;
+}
+
+.contacts-link:hover {
+    color: #ff6b08;
+    text-decoration: none;
+}
+
+.skills-title {
+    font-size: 22px;
+    line-height: 1.091;
+    margin-bottom: 10px;
+}
+
+.skills-item {
+    font-size: 14px;
+    line-height: 1.714;
+}
+
+.skills-list {
+    list-style: none;
+    padding-left: 0;
+}
+
+.skills-item::before {
+    content: '\2022';
+    margin-right: 8px;
+    color: #ff6b08;
+    font-size: 18px;
+}
+
+.container {
+    display: flex;
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.photo {
+    width: 370px;
+}
+
+.right-side {
+    padding-left: 60px;
+}
